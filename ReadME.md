@@ -1,4 +1,4 @@
-Hi, my name is Jomin Joseph and I am pursuing new opportunities where I can learn and have more hands-on applications. 
+Hi, my name is Jomin Joseph and I am pursuing new opportunities where I can develop my skills and gain more hands on experience.
 I have included some of my previous projects within my github. 
 
 My repositories consist of:
