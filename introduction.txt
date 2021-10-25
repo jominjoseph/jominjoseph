@@ -1,1 +1,5 @@
- I am pursuing new opportunities where I can learn and have more hands-on applications. The reason I decided to go into computer science is that I feel gratification from being able to solve problems. One of my strengths is my ability to research using my resources to solve problems. I have experience in Java, Python, C++, SQL, and more, and have found I pick up on new things rather quickly. Right now I am learning to use Linux and bash and I also tutor when I can. As much as I love problem-solving, I feel like my biggest goal in life is to help others. I want to make a positive impact on as many lives as I can by helping them in any way I can.
+ I am pursuing new opportunities where I can learn and have more hands-on applications. The reason I decided to go into computer science is that I feel 
+ gratification from being able to solve problems. One of my strengths is my ability to research using my resources to solve problems. I have experience in Java, 
+ Python, C++, SQL, and more, and have found I pick up on new things rather quickly. Right now I am learning to use Linux and bash and I also tutor when I can. As 
+ much as I love problem-solving, I feel like my biggest goal in life is to help others. I want to make a positive impact on as many lives as I can by helping them 
+ in any way I can.
