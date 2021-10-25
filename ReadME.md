@@ -3,7 +3,7 @@ I have included some of my previous projects within my github.
 
 My repositories consist of:
 
-Online Pong Game: This is an online game which I created using SQL, PHP, and HTML. Data is stored within an online datbase 
+Online Pong Game: This is an online game which I created using SQL, PHP, and HTML. Data is stored within an online database 
 and retrieved when neccesary to log in and check previous scores.
  
  
@@ -14,12 +14,12 @@ for this basic language.
 
 
 
-HTTPRequest: This imitates the process of an HTTP request through the use of TCP sockets. There is a HTTPserver and
+HTTPRequest: This program was written in python and imitates the process of a HTTP request through the use of TCP sockets. There is a HTTPserver and
 HTTP client. 
 
 
 
 
-DNSServer: THis imitates the process of pinigng a DNS Server. It either accepts or denies the particular 
-request and more information is found in the read.me file. There is both a DNSServer and DNSClient. This program 
+DNSServer: This program was written in python and imitates the process of pinigng a DNS Server. It either accepts or denies the particular 
+request. More information is found in the read.me file. There is both a DNSServer and DNSClient. This program 
 was created by utilizing UDP sockets. 
